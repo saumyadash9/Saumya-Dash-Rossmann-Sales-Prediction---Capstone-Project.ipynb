@@ -1,5 +1,8 @@
 # Rossman Retail Sales Prediction
 
+![image](https://user-images.githubusercontent.com/95522639/232320631-77e30045-ead9-4254-bbe8-ecae5bd6d177.png)
+
+
 Rossman is a drug store that operates over 3,000 stores in European countries. The task is to forecast the "Sales" column for the test set. Two datasets are provided, Rossman Store Dataset including the Sales and Stores dataset as CSV files. We imported these two datasets in Google Colaboratory and converted them into data frames (df_sales and df_stores). Each row of the df_sales (Rossman Stores df) has attributes namely ‘Store’, ‘DayOfWeek’, ‘Date’, ‘Sales’, ‘Customers’ , ‘Open’ , ‘Promo’ , ‘Stateholiday’ , ‘SchoolHoliday’. Similarly, for df_stores (Store df) ‘Store’, ‘StoreType’, ‘Assortment’, ‘Competition Distance’, ‘Competition Open Since Month’, ‘Competition Open Since Year’, ‘Promo2’, ‘Promo2 Since Week’, ‘Promo2 Since Year’ and ‘Promo Interval’.
 
 ## Data Cleaning and Preparation
